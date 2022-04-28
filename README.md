@@ -1,2 +1,2 @@
-# WoW-Gear-Bag-UI
+# WoWGearBagUI
 Recreating WoW's character gear and inventory.
